@@ -1,0 +1,8 @@
+# LTspice 可执行文件路径(换机器改这里)
+ltspice_exe: "D:/Users/xuanfengttp/AppData/Local/Programs/ADI/LTspice/LTspice.exe"
+# 仿真等待产物的超时(秒)
+sim_timeout: 60
+# 轮询间隔(秒)
+poll_interval: 0.5
+# 默认项目输出根目录
+projects_dir: "projects"
