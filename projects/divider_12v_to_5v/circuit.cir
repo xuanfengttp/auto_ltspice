@@ -1,0 +1,6 @@
+* Voltage divider 12V -> 5V @ 20mA
+V1 in 0 DC 12
+R1 in out 350
+R2 out 0 250
+.op
+.end

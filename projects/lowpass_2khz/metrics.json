@@ -1,0 +1,7 @@
+{
+  "analysis": "ac",
+  "filter_type": "lowpass",
+  "passband_gain_db": -0.0,
+  "cutoff_hz": 1995.38,
+  "points": 81
+}

@@ -1,0 +1,6 @@
+* RC lowpass fc=2000Hz R=1000.0ohm
+V1 in 0 AC 1
+R1 in out 1000
+C1 out 0 7.958e-08
+.ac dec 20 20 200000
+.end

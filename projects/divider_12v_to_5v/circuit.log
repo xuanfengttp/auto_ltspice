@@ -1,0 +1,14 @@
+LTspice 26.0.2 for Windows
+Circuit: D:\project\python\LTspiece\projects\divider_12v_to_5v\circuit.net
+Start Time: Sat Jul  4 20:49:28 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.054 seconds.
+
+Files loaded:
+D:\project\python\LTspiece\projects\divider_12v_to_5v\circuit.net
+

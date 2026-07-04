@@ -1,0 +1,14 @@
+{
+  "analysis": "op",
+  "vout": 5.0,
+  "out_node": "V(out)",
+  "voltages": {
+    "V(in)": 12.0,
+    "V(out)": 5.0
+  },
+  "currents": {
+    "I(R1)": 0.02,
+    "I(R2)": 0.02,
+    "I(V1)": -0.02
+  }
+}

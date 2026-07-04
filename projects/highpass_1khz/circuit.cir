@@ -1,0 +1,6 @@
+* RC highpass fc=1000Hz R=10000.0ohm
+V1 in 0 AC 1
+C1 in out 1.592e-08
+R1 out 0 10000
+.ac dec 20 10 100000
+.end

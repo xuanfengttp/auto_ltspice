@@ -1,0 +1,15 @@
+LTspice 26.0.2 for Windows
+Circuit: D:\project\python\LTspiece\projects\colpitts_500khz\circuit.net
+Start Time: Sat Jul  4 20:49:47 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.104 seconds.
+
+Files loaded:
+D:\project\python\LTspiece\projects\colpitts_500khz\circuit.net
+C:\Users\xuanfengttp\AppData\Local\LTspice\lib\cmp\standard.bjt
+

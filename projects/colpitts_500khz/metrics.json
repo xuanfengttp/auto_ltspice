@@ -1,0 +1,12 @@
+{
+  "analysis": "tran",
+  "node": "V(coll)",
+  "oscillating": true,
+  "freq_hz": 506359.56,
+  "vpp_steady": 1.3125,
+  "dc_offset": 12.0003,
+  "amplitude_drift": 0.0045,
+  "stable": true,
+  "zero_crossings": 69,
+  "total_points": 5451
+}

@@ -1,0 +1,15 @@
+* Colpitts LC oscillator f=500000Hz L=1e-05H
+* f = 1/(2*pi*sqrt(L*Cs)), Cs = C1*C2/(C1+C2)
+VCC vcc 0 DC 12
+R1 vcc base 10k
+R2 base 0 2.7k
+RC vcc coll 220
+RE emit 0 470
+Q1 coll base emit QNPN
+L1 vcc coll 1e-05
+C1 coll emit 2.026e-08
+C2 emit 0 2.026e-08
+.ic V(coll)=0.1
+.model QNPN NPN(BF=150 IS=1e-15 VAF=100)
+.tran 0 0.0002 0 5e-08
+.end

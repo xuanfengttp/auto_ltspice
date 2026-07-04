@@ -1,0 +1,7 @@
+{
+  "analysis": "ac",
+  "filter_type": "highpass",
+  "passband_gain_db": -0.0,
+  "cutoff_hz": 1002.24,
+  "points": 81
+}
