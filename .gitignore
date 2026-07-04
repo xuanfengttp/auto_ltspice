@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.raw
+*.op.raw
+*.log
+_probe/
+projects/**/*.raw
+projects/**/*.op.raw
